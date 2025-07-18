@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "album": "Divide",
+    "year": 2017,
+    "genre": "Pop"
+  },
+  {
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "year": 2019,
+    "genre": "Synth-pop"
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "album": "A Night at the Opera",
+    "year": 1975,
+    "genre": "Rock"
+  },
+  {
+    "title": "Bad Guy",
+    "artist": "Billie Eilish",
+    "album": "When We All Fall Asleep, Where Do We Go?",
+    "year": 2019,
+    "genre": "Pop"
+  },
+  {
+    "title": "Imagine",
+    "artist": "John Lennon",
+    "album": "Imagine",
+    "year": 1971,
+    "genre": "Soft rock"
+  },
+  {
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "year": 1982,
+    "genre": "Pop"
+  },
+  {
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "album": "Hotel California",
+    "year": 1976,
+    "genre": "Rock"
+  },
+  {
+    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "album": "Nevermind",
+    "year": 1991,
+    "genre": "Grunge"
+  },
+  {
+    "title": "Rolling in the Deep",
+    "artist": "Adele",
+    "album": "21",
+    "year": 2010,
+    "genre": "Soul"
+  },
+  {
+    "title": "Humble",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "year": 2017,
+    "genre": "Hip hop"
+  },
+  {
+    "title": "Lose Yourself",
+    "artist": "Eminem",
+    "album": "8 Mile",
+    "year": 2002,
+    "genre": "Rap"
+  },
+  {
+    "title": "Levitating",
+    "artist": "Dua Lipa",
+    "album": "Future Nostalgia",
+    "year": 2020,
+    "genre": "Pop"
+  },
+  {
+    "title": "Clocks",
+    "artist": "Coldplay",
+    "album": "A Rush of Blood to the Head",
+    "year": 2002,
+    "genre": "Alternative Rock"
+  },
+  {
+    "title": "Uptown Funk",
+    "artist": "Mark Ronson ft. Bruno Mars",
+    "album": "Uptown Special",
+    "year": 2014,
+    "genre": "Funk-pop"
+  },
+  {
+    "title": "Hey Jude",
+    "artist": "The Beatles",
+    "album": "Hey Jude",
+    "year": 1968,
+    "genre": "Rock"
+  },
+  {
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "album": "21",
+    "year": 2011,
+    "genre": "Pop"
+  },
+  {
+    "title": "Take Me to Church",
+    "artist": "Hozier",
+    "album": "Hozier",
+    "year": 2013,
+    "genre": "Indie Rock"
+  },
+  {
+    "title": "Stairway to Heaven",
+    "artist": "Led Zeppelin",
+    "album": "Untitled",
+    "year": 1971,
+    "genre": "Rock"
+  },
+  {
+    "title": "Firework",
+    "artist": "Katy Perry",
+    "album": "Teenage Dream",
+    "year": 2010,
+    "genre": "Pop"
+  },
+  {
+    "title": "Radioactive",
+    "artist": "Imagine Dragons",
+    "album": "Night Visions",
+    "year": 2012,
+    "genre": "Alternative Rock"
+  }
+]
